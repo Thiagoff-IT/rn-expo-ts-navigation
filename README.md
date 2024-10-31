@@ -1,1 +1,0 @@
-# rn-expo-ts-navigation
